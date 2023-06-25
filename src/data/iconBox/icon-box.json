@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "icon": "images/svg/linea/linea-basic-target.svg",
+        "title": "Branding",
+        "desc": "A well-designed brand can help to increase brand awareness, drive traffic to your website, and boost sales.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "2",
+        "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
+        "title": "UX Design",
+        "desc": "User Experience Design, is a crucial aspect of creating a successful website for a technology company.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "3",
+        "icon": "images/svg/linea/linea-basic-picture.svg",
+        "title": "Strategy",
+        "desc": "Strategy refers to a comprehensive plan or approach designed to achieve specific goals or objectives.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "4",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Ecommerce",
+        "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-basic-gear.svg",
+        "title": "Development",
+        "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "6",
+        "icon": "images/svg/linea/linea-basic-display.svg",
+        "title": "Marketing",
+        "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
+        "pageLink": "Learn More",
+        "link": "service"
+    }
+    
+]

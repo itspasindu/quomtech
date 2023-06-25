@@ -1,0 +1,136 @@
+:root {
+    // Colors
+    --clr-border: #F3F3F3;
+    --clr-body-bg: white;
+    --clr-body: #748494;
+    --clr-heading: #030f27;
+    --clr-primary: #1292ee;
+    --clr-primary-two: #3a7e69;
+    --clr-primary-three: #ef6f31;
+    --clr-secondary: #748494;
+    --clr-secondary-light: #8C89A2;
+    --clr-secondary-three: #6ac5f1;
+    --clr-success: #67d68a;
+    --clr-danger: #F44336;
+    --clr-warning: #FFC107;
+    --clr-info: #17A2B8;
+    --clr-light: #F8F9FA;
+    --clr-off-white: #f6f2ed;
+    --clr-white-gray: #f2f2f2;
+    --clr-white-light: #cacaca;
+    --clr-white-opacity-50: rgba(255,255,255,0.5);
+    --clr-white: #fff;
+    --clr-black: #000;
+    --clr-gray-100: #748494;
+    --clr-gray-200: #3f5054;
+    --clr-gray-300: #dee2e6;
+    --clr-gray-400: #ced4da;
+    --clr-gray-500: #adb5bd;
+    --clr-gray-600: #cacaca;
+    --clr-gray-700: #495057;
+    --clr-gray-800: #343a40;
+    --clr-gray-900: #212529;
+    --clr-overlay-black: #030f27;
+    --clr-light-orange: rgba(239,111,49,.1);
+    --clr-white-rgb: 255, 255, 255;
+    --clr-black-rgb: 0, 0, 0;
+    --clr-body-rgb: 116, 132, 148;
+
+
+    // Font Family
+    --ff-mulish: 'Mulish', sans-serif;
+    --ff-body: var(--ff-mulish);
+    --ff-heading: var(--ff-mulish);
+    --ff-link: 'Rubik', sans-serif;
+
+    // Icon Font
+    --fontAwesome5Brands: "Font Awesome 5 Brands";
+    --fontAwesome5Free: "Font Awesome 5 Free";
+
+    // Default Transition
+    --transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+$grid-gutter-width: 30px;
+
+$spacers: (
+  0: 0,
+  1: 5px,
+  2: 10px,
+  3: 15px,
+  4: 20px,
+  5: 25px,
+  6: 30px,
+  7: 35px,
+  8: 40px,
+  9: 45px,
+  10: 50px,
+  11: 55px,
+  12: 60px,
+  13: 65px,
+  14: 70px,
+  15: 75px,
+  16: 80px,
+  17: 85px,
+  18: 90px,
+  19: 95px,
+  20: 100px,
+  21: 105px,
+  22: 110px,
+  23: 115px,
+  24: 120px,
+  25: 125px,
+  26: 130px,
+  27: 135px,
+  28: 140px,
+  29: 145px,
+  30: 150px,
+  31: 155px,
+  32: 160px,
+  33: 165px,
+  34: 170px,
+  35: 175px,
+  36: 180px,
+  37: 185px,
+  38: 190px,
+  39: 195px,
+  40: 200px,
+  41: 205px,
+  42: 210px,
+  43: 215px,
+  44: 220px,
+  45: 225px,
+  46: 230px,
+  47: 235px,
+  48: 240px,
+  49: 245px,
+  50: 250px,
+);
+
+$enable-negative-margins:     true;
+
+// Grid Responsive
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+);
+
+$extraBig-device: "only screen and (min-width: 1600px)";
+$laptop-device: "only screen and (min-width: 1200px) and (max-width: 1599px)";
+$desktop-device: "only screen and (min-width: 992px) and (max-width: 1199px)";
+$tablet-device: "only screen and (min-width: 768px) and (max-width: 991px)";
+$large-mobile: "only screen and (max-width: 767px)";
+$small-mobile: "only screen and (max-width: 575px)";
+$extra-small-mobile: "only screen and (max-width: 479px)";

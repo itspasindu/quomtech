@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "Software Development Services",
+        "desc": "QuomTech is a cutting-edge software development agency dedicated to helping businesses transform their ideas into powerful digital solutions.",
+        "backgroundImage": "/images/hero-image/hero-2.jpg"
+    },
+    {
+        "id": "2",
+        "title": "UI/UX Design Services",
+        "desc": "we understand that user experience is paramount in today's digital landscape. Our UI/UX agency landing page is carefully crafted to showcase our expertise in creating intuitive and visually stunning interfaces.",
+        "backgroundImage": "/images/hero-image/hero-1.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Digital Marketing",
+        "desc": "QuomTech is a leading digital marketing agency that specializes in helping businesses thrive in the online realm. Our landing page is designed to showcase our expertise, highlight our comprehensive range of services, and convey our dedication to delivering exceptional results.",
+        "backgroundImage": "/images/hero-image/hero-3.jpg"
+    }
+]
